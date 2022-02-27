@@ -1,0 +1,4 @@
+.rodape {
+  background-color: var(--cor-de-fundo);
+  grid-column: 1/3;
+}

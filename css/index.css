@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.curriculo {
+  display: grid;
+  min-height: 100vh;
+  gap: 10px;
+  color: var(--cor-clara);
+  background-color: black;
+  grid-template-rows: 15vh 1fr 10vh;
+  grid-template-columns: 2fr 1fr;
+  --cor-de-fundo: #05445e;
+  --cor-secundaria: #189ab4;
+  --cor-destaque: #75e6da;
+  --cor-clara: #d4f1f4;
+}
