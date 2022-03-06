@@ -1,3 +1,10 @@
 .adicionais {
   background-color: var(--cor-de-fundo);
+  padding: 10px 20px;
+}
+.adicionais ul {
+  margin-left: 15px;
+}
+.adicionais li {
+  list-style: none;
 }
